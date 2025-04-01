@@ -1,0 +1,23 @@
+# 🌐 Virtual environment
+venv/
+myenv/
+
+# 🐍 Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 📝 Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# 🔊 Output files
+*.mp3
+output.json
+*.log
+
+# 💻 VS Code settings (tuỳ chọn)
+.vscode/
+
+# 📦 OS-generated
+.DS_Store
+Thumbs.db
